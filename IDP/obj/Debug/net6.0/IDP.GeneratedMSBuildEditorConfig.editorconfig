@@ -8,93 +8,93 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IDP
 build_property.RootNamespace = IDP
-build_property.ProjectDir = C:\Users\jafapour\Desktop\تمرین های asp.net\IdentityServerPro\IDP\
+build_property.ProjectDir = C:\Users\jafapour\IdentitySeverPro\IDP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jafapour\Desktop\تمرین های asp.net\IdentityServerPro\IDP
+build_property.MSBuildProjectDirectory = C:\Users\jafapour\IdentitySeverPro\IDP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Account/AccessDenied.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Account/LoggedOut.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Account/LoggedOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dnZWRPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Account/Login.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Account/Logout.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Consent/Index.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Consent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc2VudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Device/Success.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Device/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Device/UserCodeCapture.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Device/UserCodeCapture.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ2FwdHVyZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Device/UserCodeConfirmation.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Device/UserCodeConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV2aWNlXFVzZXJDb2RlQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Diagnostics/Index.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Diagnostics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Grants/Index.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Grants/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JhbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Home/Index.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Home/Privacy.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/Error.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/Redirect.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/Redirect.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZGlyZWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/_Nav.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/_Nav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/_ScopeListItem.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/_ScopeListItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/_ValidationSummary.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/_ValidationSummary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/_ViewImports.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/_ViewStart.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jafapour/Desktop/تمرین های asp.net/IdentityServerPro/IDP/Views/Shared/_Layout.cshtml]
+[C:/Users/jafapour/IdentitySeverPro/IDP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l6r6u6yw88

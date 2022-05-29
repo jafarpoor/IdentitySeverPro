@@ -8754,11 +8754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\UserClient\\UserClient.csproj",
+      "projectUniqueName": "C:\\Users\\jafapour\\IdentitySeverPro\\UserClient\\UserClient.csproj",
       "projectName": "UserClient",
-      "projectPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\UserClient\\UserClient.csproj",
+      "projectPath": "C:\\Users\\jafapour\\IdentitySeverPro\\UserClient\\UserClient.csproj",
       "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\UserClient\\obj\\",
+      "outputPath": "C:\\Users\\jafapour\\IdentitySeverPro\\UserClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",

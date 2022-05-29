@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiYnXwrdweWQbME6uVBowUkE1pJuZWxsPbXaQ71Ik/n0Qt5t5MheL2o77k+GQD9b4qgu448DeL5Qi9lSNbvKTQ==",
+  "dgSpecHash": "r40rw0q8ZCe8mPLnZeK/N22tWIpuTL3VhoUf/uoMMS2ESZZU3f46pU+yEKmkokHvvp22TJW9WFHpfBiGjsoy1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\UserClient\\UserClient.csproj",
+  "projectFilePath": "C:\\Users\\jafapour\\IdentitySeverPro\\UserClient\\UserClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jafapour\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\jafapour\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

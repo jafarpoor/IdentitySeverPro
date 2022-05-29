@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\IDP.csproj": {}
+    "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\IDP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\IDP.csproj": {
+    "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\IDP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\IDP.csproj",
+        "projectUniqueName": "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\IDP.csproj",
         "projectName": "IDP",
-        "projectPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\IDP.csproj",
+        "projectPath": "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\IDP.csproj",
         "packagesPath": "C:\\Users\\jafapour\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\obj\\",
+        "outputPath": "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jafapour\\AppData\\Roaming\\NuGet\\NuGet.Config",

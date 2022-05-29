@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SarCpS6z1Tc4Po7u3eaCVP10bajSOaoCq28lSgHRfVs=",
+  "Source": "ApiWeather",
+  "BasePath": "_content/ApiWeather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

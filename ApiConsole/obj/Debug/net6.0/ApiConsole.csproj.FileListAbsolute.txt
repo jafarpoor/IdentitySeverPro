@@ -1,0 +1,17 @@
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\ApiConsole.exe
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\ApiConsole.deps.json
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\ApiConsole.runtimeconfig.json
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\ApiConsole.dll
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\ApiConsole.pdb
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.AssemblyReference.cache
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.AssemblyInfoInputs.cache
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.AssemblyInfo.cs
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.CoreCompileInputs.cache
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.csproj.CopyComplete
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.dll
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\refint\ApiConsole.dll
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.pdb
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ApiConsole.genruntimeconfig.cache
+C:\Users\jafapour\IdentitySeverPro\ApiConsole\obj\Debug\net6.0\ref\ApiConsole.dll

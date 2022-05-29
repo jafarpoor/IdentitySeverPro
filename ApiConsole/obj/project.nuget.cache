@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiXOeZBOYxMRUxU2/LMHenb+Fkj5FGTdCgWIDvNUTnRIHXnd9uWoy9mJCSQypn1nQkMU1MWAd8dr1aMGBg9HoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jafapour\\IdentitySeverPro\\ApiConsole\\ApiConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jafapour\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

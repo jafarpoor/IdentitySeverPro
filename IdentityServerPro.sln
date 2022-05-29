@@ -7,11 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IDP", "IDP\IDP.csproj", "{F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{9DCB4DCD-FD42-4639-BCF7-4D371A1256C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserClient", "UserClient\UserClient.csproj", "{05143794-1F40-4F80-9A44-980FD11BDEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserClient", "UserClient\UserClient.csproj", "{05143794-1F40-4F80-9A44-980FD11BDEAC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apies", "Apies", "{6E830389-1D66-4D4C-A7FE-A0278728EEEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeather", "ApiWeather\ApiWeather.csproj", "{AB769883-6E17-46EB-BA2D-DD5980FAF83A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiWeather", "ApiWeather\ApiWeather.csproj", "{AB769883-6E17-46EB-BA2D-DD5980FAF83A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsole", "ApiConsole\ApiConsole.csproj", "{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{AB769883-6E17-46EB-BA2D-DD5980FAF83A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB769883-6E17-46EB-BA2D-DD5980FAF83A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB769883-6E17-46EB-BA2D-DD5980FAF83A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{05143794-1F40-4F80-9A44-980FD11BDEAC} = {9DCB4DCD-FD42-4639-BCF7-4D371A1256C1}
 		{AB769883-6E17-46EB-BA2D-DD5980FAF83A} = {6E830389-1D66-4D4C-A7FE-A0278728EEEF}
+		{33CFDE9B-30ED-4C1A-AE96-86D31F2BBEDA} = {9DCB4DCD-FD42-4639-BCF7-4D371A1256C1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C5BAED41-DD63-47D9-9A25-C0DBAE25A1D7}

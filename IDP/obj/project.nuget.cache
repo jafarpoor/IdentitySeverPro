@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7fsMGQ6+9g5BPs902YuRWOYoak7eWQe/PQyAMJ8NcU55CiW3PcxYok3xLqIczb6PqLuiQPtGtMBRtdNLbcup1A==",
+  "dgSpecHash": "/4dkKFekwzVZUZHdHUd+nJ97zAde7VCZkmlbZmiGNyQcQX8uZMH36o3OoIWPwBKwjQhd29q/mmrLfw29S4/SyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jafapour\\Desktop\\تمرین های asp.net\\IdentityServerPro\\IDP\\IDP.csproj",
+  "projectFilePath": "C:\\Users\\jafapour\\IdentitySeverPro\\IDP\\IDP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jafapour\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\jafapour\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
